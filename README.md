@@ -6,5 +6,5 @@
 - Mejorar jugabilidad
 - Evitar excepciones (errores)
 
-- Agregar GUI
+- Agregar GUI / Dibujar el monigote
 
